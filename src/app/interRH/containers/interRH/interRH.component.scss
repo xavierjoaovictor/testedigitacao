@@ -1,0 +1,17 @@
+#TypingTest {
+  width: 100%;
+  margin: 0 auto;
+  h1 {
+    font-family: 'RobotoNormal';
+    font-weight: 100;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 3px;
+  }
+  &__notice {
+    margin: 20px 0;
+    font-size: 15px;
+    color: #666;
+    line-height: 20px;
+  }
+}
